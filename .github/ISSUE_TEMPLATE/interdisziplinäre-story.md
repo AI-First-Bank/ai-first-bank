@@ -1,6 +1,6 @@
 ---
 name: Interdisziplinäre Story
-about: Damit alle Teammitglieder wissen, wie sie AUfgaben anlegen
+about: Damit alle Teammitglieder wissen, wie sie Aufgaben anlegen
 title: ''
 labels: ''
 assignees: ''
