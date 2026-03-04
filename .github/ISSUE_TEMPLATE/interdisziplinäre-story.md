@@ -26,4 +26,5 @@ Welches Problem lösen wir? Was wollen wir erreichen? (Nutzerperspektive)
 
 ## 🔗 Ressourcen
 - Notion Link: [Link einfügen]
+- Figma Link: [Link einfügen]
 - Abhängig von: #(Issue-Nummer)
