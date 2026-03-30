@@ -9,15 +9,13 @@ assignees: ''
 
 ## 🎯 Ziel der Story
 Welches Problem lösen wir? Was wollen wir erreichen? (Nutzerperspektive)
-
-## 👥 Team
-- Lead: @usename
-- Support: @username, @username
+Was ist der Mehrwert der Story?
 
 ## 👥 Beteiligte Workstreams
 - [ ] Produkt
 - [ ] Design
 - [ ] Technik
+- [ ] Orga
 
 ## ✅ Checkliste (Vorläufige DoD)
 - [ ] Entwurf erstellt; Research abgeschlossen
