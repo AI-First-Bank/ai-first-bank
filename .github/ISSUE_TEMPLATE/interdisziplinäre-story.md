@@ -8,23 +8,20 @@ assignees: ''
 ---
 
 ## 🎯 Ziel der Story
-Welches Problem lösen wir? Was wollen wir erreichen? (Nutzerperspektive)
-
-## 👥 Team
-- Lead: @usename
-- Support: @username, @username
+Welches Problem lösen wir? Was wollen wir erreichen? Welchen Mehrwert bietet die Story? (Nutzerperspektive)
 
 ## 👥 Beteiligte Workstreams
 - [ ] Produkt
 - [ ] Design
 - [ ] Technik
+- [ ] Orga
 
 ## ✅ Checkliste (Vorläufige DoD)
 - [ ] Entwurf erstellt; Research abgeschlossen
 - [ ] Internes Review durch Quad-Lead erfolgt
 - [ ] Dokumentation in Notion erstellt/verlinkt
+- [ ] ...
 
 ## 🔗 Ressourcen
 - Notion Link: [Link einfügen]
 - Figma Link: [Link einfügen]
-- Abhängig von: #(Issue-Nummer)
